@@ -1,8 +1,6 @@
 {
   "name": "sardoroga/hello-wooo",
   "description": "create an extension",
-  "minimum-stability": "stable",
-  "license": "proprietary",
   "authors": [
     {
       "name": "Sardor Dushamov",
