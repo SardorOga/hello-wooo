@@ -7,11 +7,12 @@
     {
       "name": "Sardor Dushamov",
       "email": "dsq2190@gmail.com"
-    },
-    "autoload": {
-      "psr-4": {
-        "sardoroga\\hello\\": "src"
-      }
-    },
-  ]
+    }
+
+  ],
+  "autoload": {
+    "psr-4": {
+      "sardoroga\\hello\\": "src"
+    }
+  }
 }
